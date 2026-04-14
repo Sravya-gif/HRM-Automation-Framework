@@ -24,7 +24,8 @@ Config file usage (no hardcoding)
 FluentWait for dynamic elements
 TestNG for test execution
 
-Project Structure
+* Project Structure
+```
 HRM-Automation-Framework
 │
 ├── src/main/java
@@ -73,5 +74,4 @@ HRM-Automation-Framework
 │
 ├── testng.xml
 ├── pom.xml
-├── README.md
-└── Design_Document.md
+```
